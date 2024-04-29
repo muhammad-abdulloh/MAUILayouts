@@ -11,7 +11,7 @@
                 AbsoluteLayout.LayoutFlags="HeightProportional"
                 AbsoluteLayout.LayoutBounds="10,90, 300, .2"
                 />
-
+    
         <Button Text="Width Proportional"
                 AbsoluteLayout.LayoutFlags="WidthProportional"
                 AbsoluteLayout.LayoutBounds="10,230, .4, 50"
